@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/csTimeSpan/bin/Debug/netcoreapp2.1/csTimeSpan.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csTimeSpan/bin/Debug/netcoreapp2.1/csTimeSpan.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csTimeSpan/bin/Debug/netcoreapp2.1/csTimeSpan.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csTimeSpan/bin/Debug/netcoreapp2.1/csTimeSpan.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csTimeSpan/bin/Debug/netcoreapp2.1/csTimeSpan.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/csTimeSpan/obj/Debug/netcoreapp2.1/csTimeSpan.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csTimeSpan/obj/Debug/netcoreapp2.1/csTimeSpan.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csTimeSpan/obj/Debug/netcoreapp2.1/csTimeSpan.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csTimeSpan/obj/Debug/netcoreapp2.1/csTimeSpan.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/csTimeSpan/obj/Debug/netcoreapp2.1/csTimeSpan.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csTimeSpan/obj/Debug/netcoreapp2.1/csTimeSpan.pdb
